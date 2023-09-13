@@ -1,5 +1,5 @@
 ---
-title: "Grade-qmd Example"
+title: "Markdown Puzzle"
 filters:
   - grade-qmd
 ---

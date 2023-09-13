@@ -1,5 +1,5 @@
 ---
-title: "Markdown Puzzle"
+title: "Markdown Puzzle: Solution"
 author: "My Name"
 filters:
   - grade-qmd
